@@ -1,10 +1,9 @@
 # PROJECTS
 DEEP LEARNING
-1:Neural machine Translation
+1:Neural Machine Translation
 2:Speech Emotion Classification
 
-EDA:
-1: RED WINE DATASET
-2: FLIGHT PRICE
+
+
 
 
